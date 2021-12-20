@@ -1,10 +1,9 @@
-### Hello!!
-### Client Programmer
-### Blog Address : https://blog.naver.com/sslejds
-### EMail : sslejds@naver.com
+#### LEE MI REUK / Client Programmer
+#### Blog Address : https://blog.naver.com/sslejds
+#### EMail : sslejds@naver.com
 
-<a href="https://blog.naver.com/sslejds" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=social&logo=#03C75A&logoColor=000000"/></a>
-
+[<img src="https://img.shields.io/badge/Blog-black?style=flat&logo=Naver&logoColor=2DB400"/>](https://blog.naver.com/sslejds)
+[<img src="https://img.shields.io/badge/Mail-black?style=flat&logo=Naver&logoColor=2DB400"/>](mailto:sslejds@naver.com)
 <!--
 **LEEMIREUK/LEEMIREUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
