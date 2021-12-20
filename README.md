@@ -1,6 +1,6 @@
 #### LEE MI REUK / Client Programmer
-#### Blog Address : https://blog.naver.com/sslejds
-#### EMail : sslejds@naver.com
+#### Blog: https://blog.naver.com/sslejds
+#### E-Mail: sslejds@naver.com
 
 [<img src="https://img.shields.io/badge/Blog-black?style=flat&logo=Naver&logoColor=2DB400"/>](https://blog.naver.com/sslejds)
 [<img src="https://img.shields.io/badge/Mail-black?style=flat&logo=Naver&logoColor=2DB400"/>](mailto:sslejds@naver.com)
